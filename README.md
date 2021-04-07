@@ -1,4 +1,7 @@
 # Detereminig-Trustworhiness-of-IoT-crowdsensing-Data
+
+Master's Project
+
 The trustworthiness of data is one of the important aspects taken into consideration in Mobile crowd sensing context where number of users submit the data which can be false or malicious and eventually affect future predictions. In this project trustworthiness of data is determined on the crowdsensing data related to traffic and transportation domain where various users submit road traffic information which can help to determine the shortest path of travel and other traffic related parameters. This project aims to implement trustworthiness model based on voting mechanism where game theory is used to motivate participants or users to submit crowdsensing data and based on the votes submitted by user then parameters such as voting capacity, user reputation, user pay-off and trustworthiness are calculated. Another model implemented to evaluate trust on different user’s data is based on concept of Experience and Reputation where Experience is calculated based on how many times the user interacts with other user. Rewards are given to each user in the form of badges based on their reputation values. The stability of both algorithms is checked by performing it for several number of times.
 
 1. Languages used: Python for Algorithm Implementation and JSON to create Data Set. 
