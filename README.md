@@ -14,6 +14,8 @@ Future Scope: The following algorithms can be implemented on the simulation soft
 Implementaion: Trust_Algorithm.py
 Jupter Notebook Version : TrustworthinessAlgorith.ipynb.
 
+
+Project Document: project_portfolio.pdf 
 Input Files: .json format
 Output files: .xlxs format.
 
